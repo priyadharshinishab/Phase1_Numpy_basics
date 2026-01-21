@@ -1,6 +1,6 @@
 # Phase1_Numpy_basics
 NumPy is used to hold raw numeric data (logs, metrics, sensor values, scores, features) before ML models.
-# Phase 1 – NumPy Basics (Day 1)
+# NumPy Basics (Day 1)
 
 ## Objective
 Learn how numerical data is represented and processed using NumPy.
@@ -28,4 +28,19 @@ Average marks: [84.3 65. 91.6 50. 98.]
 ## Tools
 - Python
 - NumPy
+
+---
+
+## Day 2 – Indexing & Data Filtering
+
+### Tasks
+- Calculated average marks
+- Filtered students with average > 75
+- Replaced marks < 40 with 0
+
+### Skills Gained
+- Boolean indexing
+- Data filtering
+- Data cleaning
+
 
